@@ -33,17 +33,4 @@ git clone https://github.com/usuario/sistema-selecao.git
 # Navegue até o diretório do projeto
 cd sistema-selecao
 
-# Compile e execute o projeto
-mvn spring-boot:run
-Acesse:
-A aplicação estará disponível em http://localhost:8080.
 
-Exemplos de Uso
-Cadastro de Candidato: POST em http://localhost:8080/candidatos
-Validação de Candidato: GET em http://localhost:8080/candidatos/{id}/validar
-Listar Candidatos: GET em http://localhost:8080/candidatos
-Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Contato
-Para mais informações, entre em contato com teuzmachado5@gmail.com 
